@@ -147,7 +147,7 @@ section {
 .pro-card {
   background-color: white;
   border: 1px solid white;
-  min-height: 9em;
+  height: 9em;
   width: 20em;
   overflow: hidden;
   border-radius: 10px;
