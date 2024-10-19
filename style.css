@@ -148,7 +148,7 @@ section {
   background-color: white;
   border: 1px solid white;
   width: 20em;
-  height:fit-content;
+  height:20em;
   overflow: hidden;
   border-radius: 10px;
   margin: 20px;
@@ -162,6 +162,7 @@ section {
 }
 .pro-image img {
   width: 100%;
+  height:14em;
 }
 .pro-info {
   padding: 1em;
